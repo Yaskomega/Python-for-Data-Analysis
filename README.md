@@ -1,12 +1,14 @@
 # Python for data analysis
 
 Yassin HASSAN
+
 Base de données  Census income
+
 https://archive.ics.uci.edu/ml/datasets/Census+Income
 
 ## Contexte de la base de donnée
 
-Pour ce  projet, nous allons utilizer la base de données Census Income disponible sur le repertoire de l’ UCIrvine Machine Learning Repository
+Pour ce  projet, nous allons utiliser la base de données Census Income disponible sur le repertoire de l’ UCIrvine Machine Learning Repository
 
 Le “US Adult Census” est un jeu de données de 48 842 entrées extraites de la base de donnée  USCensus  datant de 1994.
 
